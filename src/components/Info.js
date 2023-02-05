@@ -5,8 +5,8 @@ const Info = () => {
   return (
     <div id="info-page">
       <h1> Info page </h1>
-      <h2>I am born in India</h2>
-      <h2>and I like to play Cricket </h2>
+      <h2>I live in Gujarat</h2>
+      <h2>My name is Kevin </h2>
       <button id="info-to-blog">
         <Link to="/blog"> Go to Blog</Link>
       </button>

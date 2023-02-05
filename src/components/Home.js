@@ -4,9 +4,9 @@ const Home = () => {
   return (
     <div id="home-page">
       <h1>Home page</h1>
-      <h2>Hi, my name is Siddharth </h2>
+      <h2>Hi, my name is Kevin </h2>
       <h2>
-        and I work at <a href="https://www.newtonschool.co/">Newton School</a>
+        and I work at <a href="https://www.newtonschool.co/">Undefined</a>
       </h2>
       <button id="home-to-blog">
         {" "}
